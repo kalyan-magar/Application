@@ -11,7 +11,9 @@ System.out.println("sum="+op.sum(10,5));
 
 System.out.println("sub="+op.sub(10, 5));
 
+
 System.out.println("mul="+op.mul(10, 5));//123
+
 
 
 	}
