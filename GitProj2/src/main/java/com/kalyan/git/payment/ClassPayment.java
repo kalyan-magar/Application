@@ -12,6 +12,6 @@ public String debitcardPayment() {
 }
 
 public String doUpiPayment() {
-	return "upi payment is done";
+	return "upi payment is done done";
 }
 }
