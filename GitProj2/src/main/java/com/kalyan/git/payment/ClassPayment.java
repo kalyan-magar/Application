@@ -10,4 +10,8 @@ public String debitcardPayment() {
 	System.out.println("payment done");
 	return "debit card payment done";
 }
+
+public String doUpiPayment() {
+	return "upi payment is done";
+}
 }
